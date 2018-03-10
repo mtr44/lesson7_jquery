@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Michael Ryan 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project involved editing a recipe/instruction page. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mtr44.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use built-in jQuery syntax.
+2. Learned how to access elements using jQuery syntax.
+3. Learned how to use jQuery and Document Object Model (DOM) traversal statements.
 
